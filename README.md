@@ -31,12 +31,14 @@ Each folder contains:
 ---
 
 ## 🧰 Technologies Used
-- Python 🐍  
-- LangChain  
-- OpenAI API  
-- Chroma / FAISS / Pinecone  
-- Streamlit (for app demos)  
-- Jupyter Notebook  
+
+* **Python 🐍** – The primary programming language used for building AI applications, data processing, and integrating machine learning models.
+* **LangChain** – A powerful framework for developing LLM-powered applications, including AI agents, Retrieval-Augmented Generation (RAG), and workflow automation.
+* **OpenAI API** – Used to access advanced language models for tasks such as text generation, summarization, question answering, and conversational AI.
+* **Chroma / FAISS / Pinecone** – Vector databases for storing embeddings and enabling fast, semantic search in Retrieval-Augmented Generation (RAG) applications.
+* **Streamlit** – A lightweight framework for building interactive web applications and showcasing Generative AI project demos with minimal code.
+* **Jupyter Notebook** – An interactive development environment for experimenting with AI models, writing code, visualizing results, and documenting workflows.
+
 
 ---
 
